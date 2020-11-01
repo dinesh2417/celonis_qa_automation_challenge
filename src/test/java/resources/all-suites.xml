@@ -1,0 +1,7 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Web tests for automationpractice.com">
+    <suite-files>
+        <suite-file path="all-suite-chrome.xml"/>
+        <suite-file path="all-suite-firefox.xml"/>
+    </suite-files>
+</suite>
